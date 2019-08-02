@@ -32,6 +32,11 @@ SSR |[√](https://github.com/liuwake/SystemAssitant/blob/master/Network/SSR/Sha
    - 要是找不到,尝试使用美区appleID登录;
    - 再不行尝试其他替代软件 	
 
+## GitProj
+- https://github.com/ssrarchive/shadowsocksr s431
+- https://github.com/shadowsocksrr/shadowsocksr s2338
+- https://github.com/shadowsocksrr/shadowsocksr-csharp s8046
+- https://github.com/shadowsocksr-rm/shadowsocksr-csharp s637
 ### 参考
 - [SSR 客户端](https://tlanyan.me/shadowsockr-shadowsocksr-shadowsocksrr-clients/)
 
