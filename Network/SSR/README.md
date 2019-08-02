@@ -37,6 +37,8 @@ SSR |[√](https://github.com/liuwake/SystemAssitant/blob/master/Network/SSR/Sha
 - https://github.com/shadowsocksrr/shadowsocksr s2338
 - https://github.com/shadowsocksrr/shadowsocksr-csharp s8046
 - https://github.com/shadowsocksr-rm/shadowsocksr-csharp s637
+
+- https://github.com/googlehosts/hosts s14K
 ### 参考
 - [SSR 客户端](https://tlanyan.me/shadowsockr-shadowsocksr-shadowsocksrr-clients/)
 
