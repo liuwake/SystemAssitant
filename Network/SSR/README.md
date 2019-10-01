@@ -9,6 +9,7 @@
 名称|PC  |安卓  |IOS|MacOS|推荐
 --|--|--|--|--|--|
 SSR |[√](https://github.com/liuwake/SystemAssitant/blob/master/Network/SSR/ShadowsocksR-win-4.9.0.zip)  |[√](https://github.com/liuwake/SystemAssitant/blob/master/Network/SSR/shadowsocksr.apk)  | [√](https://itunes.apple.com/us/app/fastsocks-proxy-vpn-tookit/id1388244800?mt=8)| [√](https://github.com/liuwake/SystemAssitant/blob/master/Network/SSR/ShadowsocksX-NG-R8.dmg)|✨✨✨✨✨
+老王VPN|[❌]|[√](https://play.google.com/store/apps/details?id=com.findtheway)|[❌]|[❌]|✨✨✨
 
 #### SSR
 - 参考[SystemAssistant/SSR](https://github.com/liuwake/SystemAssitant/tree/master/Network/SSR)
@@ -28,7 +29,7 @@ http://v2rayproxy.xyz/|尚未测试
 ### TIPS
 - 破解*无法上网-没法买服务-无法上网*死循环方法
    1. 手机端方法:使用手机安装免费科学联网app-> 购买服务
-   	2. PC端方法:使用浏览器登陆[yahoo](https://www.yahoo.com/) 英文搜索相关关键字,下载相关软件免费试用;
+   	1. PC端方法:使用浏览器登陆[yahoo](https://www.yahoo.com/) 英文搜索相关关键字,下载相关软件免费试用;
 - IOS安装问题
    - app store 搜FastSocks/Potatso Lite/Mume VPN/NetShuttle等
    - 要是找不到,尝试使用美区appleID登录;
