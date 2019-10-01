@@ -20,6 +20,8 @@ SSR |[√](https://github.com/liuwake/SystemAssitant/blob/master/Network/SSR/Sha
 名称| 优点 |缺点  |推荐
 --|--|--|--|
 [holytech](https://service.holytech.tech/aff.php?aff=2277)| 一年180rmb,支持支付宝 | 新公司,有跑路可能 |适合大部分人✨✨✨✨
+[DUANG](https://billing.duangcloud.com/index.php)|尚未测试
+http://v2rayproxy.xyz/|尚未测试
 [Google](https://cloud.google.com/)|速度快,包含其他各种服务|400刀一年,贵到爆|适合煤老板✨
 [Express](https://www.expressvpn.com/)|快速,独立的易操作的全平台软件|一月10刀太贵|适合煤老板✨✨
 
