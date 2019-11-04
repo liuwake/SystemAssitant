@@ -24,8 +24,11 @@ SSR |[√](https://github.com/liuwake/SystemAssitant/blob/master/Network/SSR/Sha
 [DUANG](https://billing.duangcloud.com/index.php)|尚未测试
 http://v2rayproxy.xyz/|尚未测试
 https://www.jikess.in/|尚未测试
+[基友云](jiyou.cloud) aka https://tianlinzhao.com/clientarea.php|尚未测试
+https://www.knoxpro.me/|尚未测试(100G/5RMB)
 [Google](https://cloud.google.com/)|速度快,包含其他各种服务|400刀一年,贵到爆|适合煤老板✨
 [Express](https://www.expressvpn.com/)|快速,独立的易操作的全平台软件|一月10刀太贵|适合煤老板✨✨
+nordvpn|XXX
 
 ### TIPS
 - 破解*无法上网-没法买服务-无法上网*死循环方法
