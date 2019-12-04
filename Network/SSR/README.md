@@ -5,12 +5,12 @@
 3. 从[用户端域ClientArea](https://service.holytech.tech/clientarea.php)在 **Your Active Products/Services**底下一行找到你刚刚付款成功的那个套餐,点进去
 4. 把**Node	Server Address(IP)	Method	Obfs	Protocol**这些参数填写到SSR软件里
 
-### 软件
+### 软件平台(整体解决方案)
 名称|PC  |安卓  |IOS|MacOS|推荐
 --|--|--|--|--|--|
 SSR |[√](https://github.com/liuwake/SystemAssitant/blob/master/Network/SSR/ShadowsocksR-win-4.9.0.zip)  |[√](https://github.com/liuwake/SystemAssitant/blob/master/Network/SSR/shadowsocksr.apk)  | [√](https://itunes.apple.com/us/app/fastsocks-proxy-vpn-tookit/id1388244800?mt=8)| [√](https://github.com/liuwake/SystemAssitant/blob/master/Network/SSR/ShadowsocksX-NG-R8.dmg)|✨✨✨✨✨
 老王VPN|[❌]|[√](https://play.google.com/store/apps/details?id=com.findtheway)|[❌]|[❌]|✨✨✨
-
+[坚果](https://nutsvpn.in/)| [√]| [√]| [√]| [√]| py推荐,未测试
 #### SSR
 - 参考[SystemAssistant/SSR](https://github.com/liuwake/SystemAssitant/tree/master/Network/SSR)
 - (打开卡的话)直接下载整个项目[SystemAssistant项目打包下载](https://github.com/liuwake/SystemAssitant/archive/master.zip)
