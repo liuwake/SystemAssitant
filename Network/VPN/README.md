@@ -1,20 +1,51 @@
-
-### 我没空,直接告诉我怎么弄
+# SystemAssistant
+## Network
+### VPN
+----
+# VPN
+## **我没空,直接告诉我怎么弄**
 1. 点[Holytech](https://service.holytech.tech/aff.php?aff=2277)注册,找到一年套餐,支付宝付款;
 2. 下载[SSR各平台程序](https://github.com/liuwake/SystemAssitant/archive/master.zip)
 3. 从[用户端域ClientArea](https://service.holytech.tech/clientarea.php)在 **Your Active Products/Services**底下一行找到你刚刚付款成功的那个套餐,点进去
 4. 把**Node	Server Address(IP)	Method	Obfs	Protocol**这些参数填写到SSR软件里
 
-### 软件平台(整体解决方案)
+## 软件平台(整体解决方案)
 名称|PC  |安卓  |IOS|MacOS|推荐
 --|--|--|--|--|--|
 SSR |[√](https://github.com/liuwake/SystemAssitant/blob/master/Network/SSR/ShadowsocksR-win-4.9.0.zip)  |[√](https://github.com/liuwake/SystemAssitant/blob/master/Network/SSR/shadowsocksr.apk)  | [√](https://itunes.apple.com/us/app/fastsocks-proxy-vpn-tookit/id1388244800?mt=8)| [√](https://github.com/liuwake/SystemAssitant/blob/master/Network/SSR/ShadowsocksX-NG-R8.dmg)|✨✨✨✨✨
 老王VPN|[❌]|[√](https://play.google.com/store/apps/details?id=com.findtheway)|[❌]|[❌]|✨✨✨
 [坚果](https://nutsvpn.in/)| [√]| [√]| [√]| [√]| py推荐,未测试
-#### SSR
+
+## SSR
 - 参考[SystemAssistant/SSR](https://github.com/liuwake/SystemAssitant/tree/master/Network/SSR)
 - (打开卡的话)直接下载整个项目[SystemAssistant项目打包下载](https://github.com/liuwake/SystemAssitant/archive/master.zip)
+### GitProj
+- https://github.com/ssrarchive/shadowsocksr s431
+- https://github.com/shadowsocksrr/shadowsocksr s2338
+- https://github.com/shadowsocksrr/shadowsocksr-csharp s8046
+- https://github.com/shadowsocksr-rm/shadowsocksr-csharp s637
+- https://github.com/shadowsocks/shadowsocks-qt5 s7k
+- https://github.com/dxxzst/Free-SS-SSR s2Kß
+- https://github.com/shadowsocks/shadowsocks-windows S40K
+- https://github.com/qingshuisiyuan/electron-ssr-backup/releases
+### Ref
+  - [SSR 客户端](https://tlanyan.me/shadowsockr-shadowsocksr-shadowsocksrr-clients/)
 
+## V2
+### MultiOs
+- Android
+  - https://github.com/2dust/v2rayNG s3.1k
+- Mac
+  - https://github.com/yanue/V2rayU  s5.7k
+- Linux
+  - ```bash <(curl -s -L https://git.io/v2ray.sh)```
+### Sub
+- ```https://jiang.netlify.com/```
+- http://vtwo.xyz/
+
+### Ref
+- [V2ray windows电脑客户端V2RayN下载与使用教程](https://garygeng.com/software/windows-v2rayn/)
+- [v2ray安装及mac/android下client设置](https://www.jianshu.com/p/fdecbbf18e31)
 
 
 ###  网络服务提供商
@@ -39,19 +70,10 @@ nordvpn|XXX
    - 要是找不到,尝试使用美区appleID登录;
    - 再不行尝试其他替代软件 	
 
-## GitProj
-- https://github.com/ssrarchive/shadowsocksr s431
-- https://github.com/shadowsocksrr/shadowsocksr s2338
-- https://github.com/shadowsocksrr/shadowsocksr-csharp s8046
-- https://github.com/shadowsocksr-rm/shadowsocksr-csharp s637
-- https://github.com/shadowsocks/shadowsocks-qt5 s7k
-- https://github.com/dxxzst/Free-SS-SSR s2K
-- https://github.com/shadowsocks/shadowsocks-windows S40K
-- 
+
 
 - https://github.com/googlehosts/hosts s14K
-### 参考
-- [SSR 客户端](https://tlanyan.me/shadowsockr-shadowsocksr-shadowsocksrr-clients/)
+
 
 
 
