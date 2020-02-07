@@ -46,7 +46,9 @@ SSR |[√](https://github.com/liuwake/SystemAssitant/blob/master/Network/SSR/Sha
 ### Ref
 - [V2ray windows电脑客户端V2RayN下载与使用教程](https://garygeng.com/software/windows-v2rayn/)
 - [v2ray安装及mac/android下client设置](https://www.jianshu.com/p/fdecbbf18e31)
-
+## HOSTS
+- GitProj
+  - https://github.com/googlehosts/hosts s14K
 
 ###  网络服务提供商
 名称| 优点 |缺点  |推荐
@@ -71,8 +73,16 @@ nordvpn|XXX
    - 再不行尝试其他替代软件 	
 
 
+## Change Log
+### [2.0] - 2020-02-06
+#### Add
+* Add V2Ray
 
-- https://github.com/googlehosts/hosts s14K
+## TODO
+- [ ] fix change log
+- [ ] del ssr, change to V2
+
+
 
 
 
